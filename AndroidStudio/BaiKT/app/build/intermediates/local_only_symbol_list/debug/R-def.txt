@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable nguoi1
+drawable nguoi2
+drawable soi
+id header
+id imge
+id listChatBox
+id ten
+layout activity_chatbox
+layout activity_main
+layout custom_list
+layout custom_list_chatbox
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.BaiKT
+style Theme.BaiKT
+xml backup_rules
+xml data_extraction_rules

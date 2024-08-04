@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_dong_chucnangvasanpham.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\dong_chucnangvasanpham.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_trangchu.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_trangchu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_dien_thoai.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_dien_thoai.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_minus2.png.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\minus2.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_cellphone.png.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\cellphone.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_menu.png.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_plus1.png.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\plus1.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_quan_ly.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_quan_ly.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_dong_chitietdonhang.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\dong_chitietdonhang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_them_san_pham.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_them_san_pham.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_reset_pass.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_reset_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_gio_hang.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_gio_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_support.png.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\support.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_new1.png.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\new1.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_laptop.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_laptop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_camera.png.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_dang_nhap.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_dang_nhap.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_thanh_toan.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_thanh_toan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_chi_tiet_spactivity.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_chi_tiet_spactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_cart.png.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_dong_sanpham_dt.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\dong_sanpham_dt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_sua_thong_tin.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_sua_thong_tin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_delete.png.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_arrow.png.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_dong_sp_moi.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\dong_sp_moi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_xem_don_hang.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_xem_don_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\menu_item_sua_xoa.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\menu\\item_sua_xoa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_dang_ky.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_dang_ky.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_dong_sp_giohang.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\dong_sp_giohang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_activity_thong_tin.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\activity_thong_tin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_dong_sanpham_laptop.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\dong_sanpham_laptop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_add.png.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.manager.appbanhang.app-merged_res-30:/layout_dong_donhang.xml.flat",
+        "source": "com.manager.appbanhang.app-main-32:/layout/dong_donhang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\layout_dong_donhang.xml.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\layout\\dong_donhang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-merged_res-30:\\drawable_seo.png.flat",
+        "source": "C:\\Users\\Nguyen Khanh\\.gradle\\daemon\\8.0\\com.manager.appbanhang.app-main-32:\\drawable\\seo.png"
+    }
+]

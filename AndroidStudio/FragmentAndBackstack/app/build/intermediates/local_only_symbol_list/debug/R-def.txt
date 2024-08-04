@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_replace_fragment
+id constraint_body
+id fragment_1
+id fragment_2
+layout activity_backtstack
+layout activity_main
+layout fragment_1
+layout fragment_2
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.FragmentAndBackstack
+style Theme.FragmentAndBackstack
+xml backup_rules
+xml data_extraction_rules

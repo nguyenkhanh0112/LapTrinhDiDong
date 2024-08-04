@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable delete
+drawable edit
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_Them
+id btn_huy
+id edit_tenCV
+id huy_btn
+id imageDelete
+id imageEdit
+id lvCV
+id menu_add_cv
+id textTen
+id themCv
+id toolBar
+id txtTenCV
+id xacnhan_btn
+layout activity_main
+layout dialog_add
+layout dialog_update
+layout dong_cong_viec
+menu add_congviec
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.SQLiteExampleVesion
+style Theme.SQLiteExampleVesion
+xml backup_rules
+xml data_extraction_rules

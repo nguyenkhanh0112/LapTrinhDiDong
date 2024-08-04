@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable botbiendangyeu
+drawable end
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable play
+drawable rand
+id action_end
+id action_shuffle
+id song_artist
+id song_list
+id song_title
+layout activity_main
+layout song
+menu menu_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MediaExample
+style Theme.MediaExample
+xml backup_rules
+xml data_extraction_rules

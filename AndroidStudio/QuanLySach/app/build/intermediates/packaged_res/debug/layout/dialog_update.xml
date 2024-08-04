@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#00FFEA"
+    android:padding="10dp">
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableRow>
+            <TextView
+                android:gravity="center"
+                android:text="View Detail"
+                android:textSize="20sp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mã tác giả: "/>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edit_matg"
+                android:textSize="20sp"
+                android:hint="Mã TG"
+                android:ems="8">
+                <requestFocus/>
+            </EditText>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tên tác giả: "/>
+
+            <EditText
+                android:id="@+id/edit_tentg"
+                android:ems="8"
+                android:hint="Tên TG"
+                android:textSize="20sp" />
+        </TableRow>
+        <TableRow>
+            <Button
+                android:text="Xóa trắng"
+                android:textSize="20sp"
+                android:id="@+id/btn_focus"/>
+            <Button
+                android:layout_marginLeft="5dp"
+                android:textSize="20sp"
+                android:id="@+id/btn_update"
+                android:text="Cập nhập"/>
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

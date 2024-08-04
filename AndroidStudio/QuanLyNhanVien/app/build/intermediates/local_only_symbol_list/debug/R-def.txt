@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_click
+id button_Nam
+id button_Nu
+id editText_manv
+id editText_tenNV
+id listViewDS
+id list_item
+id sanpham
+id spinnerDM
+id tensp
+id textView
+id text_ViewList
+layout activity_items
+layout activity_main
+layout sanpham_items
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.QuanLyNhanVien
+style Theme.QuanLyNhanVien
+xml backup_rules
+xml data_extraction_rules

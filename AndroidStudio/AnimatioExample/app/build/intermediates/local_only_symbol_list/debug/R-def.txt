@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+anim silde_out_left
+anim slide_in_right
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Activity_main
+id btn_add
+id btn_change
+id btn_move
+id button
+layout activity_main
+layout activity_second
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.AnimatioExample
+style Theme.AnimatioExample
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id MaNV
+id MaPB
+id RadioNu
+id TenNV
+id TenPB
+id add_NV
+id btnXoaTrang
+id btn_clickLuu
+id delte
+id list_item
+id permission
+id phophong
+id radioNam
+id truong_phong
+id txt_ma_ten
+layout activity_addnv
+layout activity_main
+layout list_item_dspb
+menu context_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ChuongTrinhQuanLyNhanVien
+style Theme.ChuongTrinhQuanLyNhanVien
+xml backup_rules
+xml data_extraction_rules
