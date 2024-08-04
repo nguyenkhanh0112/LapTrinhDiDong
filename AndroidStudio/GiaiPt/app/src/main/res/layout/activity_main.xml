@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+<!--        <ImageView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:src="@drawable/botbiendangyeu"-->
+<!--            />-->
+
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Giải PT "
+        android:textSize="50dp"
+        android:id="@+id/titlegiaipt"
+        android:textStyle="bold|normal"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titlegiaipt"
+        android:text="Nhập hệ số A:"
+        android:id="@+id/nhapA"
+        android:textSize="30dp"/>
+    <EditText
+        android:id="@+id/hesoa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titlegiaipt"
+        android:layout_toRightOf="@+id/nhapA"
+        android:hint="Enter text"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nhapA"
+        android:text="Nhập hệ số B:"
+        android:id="@+id/nhapB"
+        android:textSize="30dp"/>
+    <EditText
+        android:id="@+id/hesob"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nhapA"
+        android:hint="Enter text"
+        android:textSize="20dp"
+        android:layout_toRightOf="@+id/nhapB"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nhapB"
+        android:text="Nhập hệ số C:"
+        android:id="@+id/nhapC"
+        android:textSize="30dp"/>
+
+    <EditText
+
+        android:id="@+id/hesoc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nhapB"
+        android:textSize="20dp"
+        android:hint="Enter text"
+        android:layout_toRightOf="@+id/nhapC"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Giải PT"
+        android:layout_below="@id/nhapC"
+        android:textSize="30dp"
+        android:id="@+id/btnGiaiPT"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnGiaiPT"
+        android:textSize="30dp"
+        android:text="Kết Quả: "
+        android:textStyle="bold"
+        android:id="@+id/kq"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnGiaiPT"
+        android:hint="Enter text"
+        android:id="@+id/textkq"
+        android:textSize="20dp"
+        android:layout_toRightOf="@+id/kq"/>
+<!--        <ProgressBar-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_below="@id/textkq"-->
+<!--            style="@android:style/Widget.ProgressBar"-->
+<!--            android:layout_marginRight="5dp"-->
+<!--            />-->
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textkq"
+            android:id="@+id/seekbar"
+            android:max="100"
+            android:progress="42"/>
+        <RatingBar
+            android:id="@+id/myRatingBar"
+            android:layout_below="@+id/seekbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            android:rating="3.5" />
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

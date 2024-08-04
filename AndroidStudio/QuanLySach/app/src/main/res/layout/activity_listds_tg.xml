@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical">
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:textSize="30sp"-->
+<!--        android:text="Dánh sách tác giả"-->
+<!--        android:gravity="center"/>-->
+    <TableLayout
+        android:layout_width="match_parent"
+        android:background="#ff00"
+        android:layout_height="wrap_content">
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:text="Mã Tác Giả"
+                android:textSize="24sp"/>
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:text="Tên tác giả "
+                android:textSize="24sp" />
+        </TableRow>
+    </TableLayout>
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/list_Author"/>
+</LinearLayout>

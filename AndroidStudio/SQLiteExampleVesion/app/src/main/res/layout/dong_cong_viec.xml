@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Bảng Công Việc"-->
+<!--        android:textSize="30sp"-->
+<!--        android:gravity="center"/>-->
+
+    <LinearLayout
+        android:weightSum="10"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/txtTenCV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="8"
+            android:hint="Tên công việc"
+            android:textSize="22sp" />
+        <ImageView
+            android:padding="1dp"
+            android:id="@+id/imageDelete"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:scrollbarSize="5dp"
+            android:src="@drawable/delete" />
+        <ImageView
+            android:padding="1dp"
+            android:id="@+id/imageEdit"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/edit" />
+    </LinearLayout>
+
+</LinearLayout>

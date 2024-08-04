@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:background="#00BCD4"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/hotensv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="#0d00ff"
+        android:text="Họ tên sinh viên: "/>
+    <TextView
+        android:id="@+id/namsinhsv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hotensv"
+        android:layout_marginTop="10dp"
+        android:text="Năm Sinh: 1999"
+        android:textSize="24sp"/>
+    <TextView
+        android:id="@+id/diachisv"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hotensv"
+        android:layout_marginTop="10dp"
+        android:text="Địa chỉ: Hà Nội"
+        android:textSize="24sp"/>
+
+    <ImageView
+        android:id="@+id/editsv"
+        android:layout_width="47dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/imageediting" />
+    <ImageView
+        android:id="@+id/deletesv"
+        android:src="@drawable/delete"
+        android:layout_width="47dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="10dp"
+        android:layout_toLeftOf="@+id/editsv"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

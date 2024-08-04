@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/txt_ma_ten"
+        android:textColor="#008"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mã và Tên Phòng"
+        android:textSize="24sp"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/txt_ma_ten">
+        <TextView
+            android:id="@+id/truong_phong"
+            android:textColor="#008"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Trưởng Phòng"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#008"
+            android:text="Phó Phòng"
+            android:id="@+id/phophong"/>
+    </LinearLayout>
+
+</RelativeLayout>
